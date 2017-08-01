@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/UserLib"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/Documents/UserLib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/commons-csv-1.4-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/httpclient-4.2.3.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/rest-assured-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/groovy-all-2.5.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/jython_installer-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nitesh Goyal/workspace/userLib/plivo-java-3.0.9-jar-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite guice-stage="DEVELOPMENT" name="Default suite">
+  <test name="Rummy login Test">
+    <classes>
+      <class name="com.highLevel.LoginWR"/>
+    </classes>
+  </test> <!-- Login Test -->
+  
+  <test name="Rummy Singup Test">
+    <classes>
+      <class name="com.highLevel.SignupWR"/>
+    </classes>
+  </test> <!-- Signup Test -->
+  
+</suite> <!-- Default suite -->
